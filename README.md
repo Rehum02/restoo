@@ -21,7 +21,7 @@ Technolgies utilisées
 - Base de données : MongoDB 
 
 Note: Ne disposant pas de serveur en ligne pouvant heberger une base de données MongoDB, l'application n'a pu être deployée en ligne.
-Pour deployer sur un serveur en ligne, vous pouvez vous referer à la section "Deploiement en ligne"
+Pour deployer sur un serveur en ligne, vous pouvez vous referer à la section "Deploiement en ligne" ou me communiquer les coordonnées de votre serveur pour que je puisse effectuer le deploiement.
 
 ## Fonctionnalités
 
