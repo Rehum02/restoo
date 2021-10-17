@@ -49,7 +49,7 @@ Pour deployer sur un serveur en ligne, vous pouvez vous referer à la section "D
 
 
 * INSTALLATION DU FRONTEND  
-        - Aller dans le dossier restoo_frontend
+        - Aller dans le dossier restoo_frontend__source
         - Telecharger le dossier
         - Se mettre dans le dossier et faire npm install
         - Faire  ```npm run script ``` pour demarrer lancer l'app
@@ -67,7 +67,7 @@ Pour deployer sur un serveur en ligne, vous pouvez vous referer à la section "D
 
 
  * INSTALLATION DU FRONTEND  
-        - Aller dans le dossier restoo_frontend
+        - Aller dans le dossier restoo_frontend__online
         - Mettre la valeur url du backend dans la propriété  CONST_BACKEND_ROOT_PATH
         - Uploader tout le contenu du dossier à la racine du serveur
         - lancer l'app
